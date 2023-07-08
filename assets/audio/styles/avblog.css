@@ -1,0 +1,13 @@
+nav > ul > li {
+   display:grid;
+    margin-right: 15px;
+}
+nav li > a{
+    text-decoration: none;
+}
+footer{
+    text-align: center;
+    text-align: 15px;
+}image{
+    size: 200px;
+}
